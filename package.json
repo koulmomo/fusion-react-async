@@ -30,7 +30,7 @@
     "prop-types": "^15.5.8"
   },
   "devDependencies": {
-    "@babel/preset-react": "7.0.0-beta.40",
+    "@babel/preset-react": "7.0.0-beta.44",
     "babel-eslint": "8.2.2",
     "create-universal-package": "3.4.1",
     "enzyme": "^3.3.0",
